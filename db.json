@@ -18,9 +18,10 @@
           price: 65,
           imageUrl: require("../assets/t-shirt.png"),
           quantity: 10,
-         category:"hoodie"
+         category:"hoodie",
         },
       ],
+        cart[],
 
 
 
