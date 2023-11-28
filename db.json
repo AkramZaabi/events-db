@@ -1,0 +1,29 @@
+{
+
+
+"products" :  [
+        {
+          id: "1"
+          name: "T-shirt Super Mario",
+          description: "T-shirt avec la photo de Mario",
+          price: 50,
+          imageUrl: require("../assets/t-shirt.png"),
+          quantity: 5,
+          category:"t-shirt"
+        },
+        {
+          id: "2"
+          name: "Hoodie Zelda",
+          description: "Hoodie featuring the iconic Zelda logo",
+          price: 65,
+          imageUrl: require("../assets/t-shirt.png"),
+          quantity: 10,
+         category:"hoodie"
+        },
+      ],
+
+
+
+
+
+}
