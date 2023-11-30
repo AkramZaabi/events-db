@@ -8,7 +8,7 @@
       "colors": [
         {
           "name": "Green",
-          "imageUrl": require("../assets/Free_T-Shirt_Mockup_1.png"),
+          "imageUrl": "../assets/Free_T-Shirt_Mockup_1.png",
           "quantity": 5
         },
         {
