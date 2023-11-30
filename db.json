@@ -8,22 +8,22 @@
       "colors": [
         {
           "name": "Green",
-          "imageUrl": "@/assets/Free_T-Shirt_Mockup_1.png",
+          "imageUrl": "../assets/Free_T-Shirt_Mockup_1.png",
           "quantity": 5
         },
         {
           "name": "Blue and Green",
-          "imageUrl": "@/assets/Free_T-Shirt_Mockup_2.png",
+          "imageUrl": "../assets/Free_T-Shirt_Mockup_2.png",
           "quantity": 3
         },
         {
           "name": "Blue",
-          "imageUrl": "@/assets/Free_T-Shirt_Mockup_3.png",
+          "imageUrl": "../assets/Free_T-Shirt_Mockup_3.png",
           "quantity": 4
         },
         {
           "name": "Black",
-          "imageUrl": "@/assets/Free_T-Shirt_Mockup_4.png",
+          "imageUrl": "../assets/Free_T-Shirt_Mockup_4.png",
           "quantity": 3
         }
       ],
@@ -37,17 +37,17 @@
       "colors": [
         {
           "name": "Black",
-          "imageUrl": "@/assets/Free_Sweatshirt_Mockup_1.png",
+          "imageUrl": "../assets/Free_Sweatshirt_Mockup_1.png",
           "quantity": 5
         },
         {
           "name": "Green",
-          "imageUrl": "@/assets/Free_Sweatshirt_Mockup_2.png",
+          "imageUrl": "../assets/Free_Sweatshirt_Mockup_2.png",
           "quantity": 3
         },
         {
           "name": "Blue",
-          "imageUrl": "@/assets/Free_Sweatshirt_Mockup_3.png",
+          "imageUrl": "../assets/Free_Sweatshirt_Mockup_3.png",
           "quantity": 4
         },
         {
