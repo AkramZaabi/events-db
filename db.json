@@ -1,22 +1,111 @@
 {
   "products": [
     {
-      "id": "1",
+      "id": 1,
       "name": "T-shirt Super Mario",
       "description": "T-shirt avec la photo de Mario",
       "price": 50,
-      "imageUrl": "../assets/t-shirt.png",
-      "quantity": 5,
-      "category": "t-shirt"
+      "colors": [
+        {
+          "name": "Green",
+          "imageUrl": "../assets/Free_T-Shirt_Mockup_1.png",
+          "quantity": 5
+        },
+        {
+          "name": "Blue and Green",
+          "imageUrl": "../assets/Free_T-Shirt_Mockup_2.png",
+          "quantity": 3
+        },
+        {
+          "name": "Blue",
+          "imageUrl": "../assets/Free_T-Shirt_Mockup_3.png",
+          "quantity": 4
+        },
+        {
+          "name": "Black",
+          "imageUrl": "../assets/Free_T-Shirt_Mockup_4.png",
+          "quantity": 3
+        }
+      ],
+      "category": "T-shirts"
     },
     {
-      "id": "2",
-      "name": "Hoodie Zelda",
-      "description": "Hoodie featuring the iconic Zelda logo",
-      "price": 65,
-      "imageUrl": "../assets/t-shirt.png",
-      "quantity": 10,
-      "category": "hoodie"
+      "id": 2,
+      "name": "Sweatshirt Super Mario",
+      "description": "Capuche avec la photo de Mario",
+      "price": 120,
+      "colors": [
+        {
+          "name": "Black",
+          "imageUrl": "../assets/Free_Sweatshirt_Mockup_1.png",
+          "quantity": 5
+        },
+        {
+          "name": "Green",
+          "imageUrl": "../assets/Free_Sweatshirt_Mockup_2.png",
+          "quantity": 3
+        },
+        {
+          "name": "Blue",
+          "imageUrl": "../assets/Free_Sweatshirt_Mockup_3.png",
+          "quantity": 4
+        },
+        {
+          "name": "Green and Blue",
+          "imageUrl": "../assets/Free_Sweatshirt_Mockup_4.png",
+          "quantity": 3
+        }
+      ],
+      "category": "Sweatshirts"
+    },
+    {
+      "id": 3,
+      "name": "Pants",
+      "description": "The best stylish Pants of our collection",
+      "price": 120,
+      "colors": [
+        {
+          "name": "green",
+          "imageUrl": "../assets/wepik-export-20231130153612t832-removebg-preview.png",
+          "quantity": 5
+        },
+        {
+          "name": "Black",
+          "imageUrl": "../assets/wepik-export-20231130153236pBWo-removebg-preview.png",
+          "quantity": 3
+        },
+        {
+          "name": "Purple",
+          "imageUrl": "../assets/wepik-export-202311301533220JYe-removebg-preview.png",
+          "quantity": 4
+        }
+      ],
+      "category": "Pants"
+    },
+    {
+      "id": 4,
+      "name": "Shoes",
+      "description": "The best shoes of our collection",
+      "price": 200,
+      "colors": [
+        {
+          "name": "Beige",
+          "imageUrl": "../assets/wepik-export-20231130154138SkMQ-removebg-preview.png",
+          "quantity": 5
+        },
+        {
+          "name": "Green",
+          "imageUrl": "../assets/wepik-export-202311301542190PSW-removebg-preview.png",
+          "quantity": 3
+        },
+        {
+          "name": "Silver",
+          "imageUrl": "../assets/wepik-export-20231130155202wYmn-removebg-preview.png",
+          "quantity": 4
+        }
+      ],
+      "category": "Shoes"
     }
-  ]
+  ],
+  "cart": []
 }
