@@ -8,22 +8,22 @@
       "colors": [
         {
           "name": "Green",
-          "imageUrl": "../assets/Free_T-Shirt_Mockup_1.png",
+          "imageUrl": "@/assets/Free_T-Shirt_Mockup_1.png",
           "quantity": 5
         },
         {
           "name": "Blue and Green",
-          "imageUrl": "../assets/Free_T-Shirt_Mockup_2.png",
+          "imageUrl": "@/assets/Free_T-Shirt_Mockup_2.png",
           "quantity": 3
         },
         {
           "name": "Blue",
-          "imageUrl": "../assets/Free_T-Shirt_Mockup_3.png",
+          "imageUrl": "@/assets/Free_T-Shirt_Mockup_3.png",
           "quantity": 4
         },
         {
           "name": "Black",
-          "imageUrl": "../assets/Free_T-Shirt_Mockup_4.png",
+          "imageUrl": "@/assets/Free_T-Shirt_Mockup_4.png",
           "quantity": 3
         }
       ],
@@ -37,22 +37,22 @@
       "colors": [
         {
           "name": "Black",
-          "imageUrl": "../assets/Free_Sweatshirt_Mockup_1.png",
+          "imageUrl": "@/assets/Free_Sweatshirt_Mockup_1.png",
           "quantity": 5
         },
         {
           "name": "Green",
-          "imageUrl": "../assets/Free_Sweatshirt_Mockup_2.png",
+          "imageUrl": "@/assets/Free_Sweatshirt_Mockup_2.png",
           "quantity": 3
         },
         {
           "name": "Blue",
-          "imageUrl": "../assets/Free_Sweatshirt_Mockup_3.png",
+          "imageUrl": "@/assets/Free_Sweatshirt_Mockup_3.png",
           "quantity": 4
         },
         {
           "name": "Green and Blue",
-          "imageUrl": "../assets/Free_Sweatshirt_Mockup_4.png",
+          "imageUrl": "@/assets/Free_Sweatshirt_Mockup_4.png",
           "quantity": 3
         }
       ],
@@ -66,17 +66,17 @@
       "colors": [
         {
           "name": "green",
-          "imageUrl": "../assets/wepik-export-20231130153612t832-removebg-preview.png",
+          "imageUrl": "@/assets/wepik-export-20231130153612t832-removebg-preview.png",
           "quantity": 5
         },
         {
           "name": "Black",
-          "imageUrl": "../assets/wepik-export-20231130153236pBWo-removebg-preview.png",
+          "imageUrl": "@/assets/wepik-export-20231130153236pBWo-removebg-preview.png",
           "quantity": 3
         },
         {
           "name": "Purple",
-          "imageUrl": "../assets/wepik-export-202311301533220JYe-removebg-preview.png",
+          "imageUrl": "@/assets/wepik-export-202311301533220JYe-removebg-preview.png",
           "quantity": 4
         }
       ],
@@ -90,17 +90,17 @@
       "colors": [
         {
           "name": "Beige",
-          "imageUrl": "../assets/wepik-export-20231130154138SkMQ-removebg-preview.png",
+          "imageUrl": "@/assets/wepik-export-20231130154138SkMQ-removebg-preview.png",
           "quantity": 5
         },
         {
           "name": "Green",
-          "imageUrl": "../assets/wepik-export-202311301542190PSW-removebg-preview.png",
+          "imageUrl": "@/assets/wepik-export-202311301542190PSW-removebg-preview.png",
           "quantity": 3
         },
         {
           "name": "Silver",
-          "imageUrl": "../assets/wepik-export-20231130155202wYmn-removebg-preview.png",
+          "imageUrl": "@/assets/wepik-export-20231130155202wYmn-removebg-preview.png",
           "quantity": 4
         }
       ],
