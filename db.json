@@ -105,6 +105,20 @@
         }
       ],
       "category": "Shoes"
+    },
+     {
+      "id": 5,
+      "name": "Hoodie",
+      "description": "Pink Classy",
+      "price": 200,
+      "colors": [
+        {
+          "name": "pink",
+          "imageUrl": "pink_hoodie.jpg",
+          "quantity": 5
+        }
+      ],
+      "category": "Hoodie"
     }
   ],
   "cart": []
