@@ -114,7 +114,21 @@
       "colors": [
         {
           "name": "pink",
-          "imageUrl": "pink_hoodie.jpg",
+          "imageUrl": "pink_hoodie.png",
+          "quantity": 5
+        }
+      ],
+      "category": "Hoodie"
+    },
+       {
+      "id": 5,
+      "name": "Hoodie",
+      "description": "Blue Night",
+      "price": 210,
+      "colors": [
+        {
+          "name": "blue",
+          "imageUrl": "blue_hoodie.png",
           "quantity": 5
         }
       ],
