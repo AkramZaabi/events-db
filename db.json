@@ -9,22 +9,26 @@
         {
           "name": "Green",
           "imageUrl": "Free_T-Shirt_Mockup_1.png",
-          "quantity": 5
+          "quantity": 5,
+          "inStock": 5
         },
         {
           "name": "Blue and Green",
           "imageUrl": "Free_T-Shirt_Mockup_2.png",
-          "quantity": 3
+          "quantity": 3,
+          "inStock": 3
         },
         {
           "name": "Blue",
           "imageUrl": "Free_T-Shirt_Mockup_3.png",
-          "quantity": 4
+          "quantity": 4,
+          "inStock": 4
         },
         {
           "name": "Black",
           "imageUrl": "Free_T-Shirt_Mockup_4.png",
-          "quantity": 3
+          "quantity": 3,
+          "inStock": 3
         }
       ],
       "category": "T-shirts"
@@ -38,22 +42,26 @@
         {
           "name": "Black",
           "imageUrl": "Free_Sweatshirt_Mockup_1.png",
-          "quantity": 5
+          "quantity": 5,
+          "inStock": 5
         },
         {
           "name": "Green",
           "imageUrl": "Free_Sweatshirt_Mockup_2.png",
-          "quantity": 3
+          "quantity": 3,
+          "inStock": 3
         },
         {
           "name": "Blue",
           "imageUrl": "Free_Sweatshirt_Mockup_3.png",
-          "quantity": 4
+          "quantity": 4,
+          "inStock": 4
         },
         {
           "name": "Green and Blue",
           "imageUrl": "Free_Sweatshirt_Mockup_4.png",
-          "quantity": 3
+          "quantity": 3,
+          "inStock": 3
         }
       ],
       "category": "Sweatshirts"
@@ -67,17 +75,20 @@
         {
           "name": "green",
           "imageUrl": "wepik-export-20231130153612t832-removebg-preview.png",
-          "quantity": 5
+          "quantity": 5,
+          "inStock": 5
         },
         {
           "name": "Black",
           "imageUrl": "wepik-export-20231130153236pBWo-removebg-preview.png",
-          "quantity": 3
+          "quantity": 3,
+          "inStock": 3
         },
         {
           "name": "Purple",
           "imageUrl": "wepik-export-202311301533220JYe-removebg-preview.png",
-          "quantity": 4
+          "quantity": 4,
+          "inStock": 4
         }
       ],
       "category": "Pants"
@@ -91,17 +102,20 @@
         {
           "name": "Beige",
           "imageUrl": "wepik-export-20231130154138SkMQ-removebg-preview.png",
-          "quantity": 5
+          "quantity": 5,
+          "inStock": 5
         },
         {
           "name": "Green",
           "imageUrl": "wepik-export-202311301542190PSW-removebg-preview.png",
-          "quantity": 3
+          "quantity": 3,
+          "inStock": 3
         },
         {
           "name": "Silver",
           "imageUrl": "wepik-export-20231130155202wYmn-removebg-preview.png",
-          "quantity": 4
+          "quantity": 4,
+          "inStock": 4
         }
       ],
       "category": "Shoes"
@@ -115,7 +129,8 @@
         {
           "name": "pink",
           "imageUrl": "pink_hoodie.png",
-          "quantity": 5
+          "quantity": 5,
+          "inStock": 5
         }
       ],
       "category": "Hoodie"
@@ -129,7 +144,8 @@
         {
           "name": "blue",
           "imageUrl": "blue_hoodie.png",
-          "quantity": 5
+          "quantity": 5,
+          "inStock": 5
         }
       ],
       "category": "Hoodie"
